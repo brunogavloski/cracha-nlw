@@ -1,8 +1,8 @@
 const LinkSocialMedia = {
-    github: 'pedro',
-    youtube: 'bruno_gavloskiyt',
+    github: 'brunogavloski',
+    youtube: 'brunogavloski',
     facebook: 'bruno_gavloskifb',
-    instagram: 'rafaelgavloski',
+    instagram: 'bruno_gavloski',
     twitter: 'bruno-gavloskitw'
 }
 
